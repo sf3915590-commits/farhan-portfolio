@@ -1,14 +1,16 @@
-# Mohammed Farhan Ansari — Cinematic Portfolio
+# Farhan — Cinematic Portfolio
 
-Public-ready static portfolio, with the Google internship certificate section and image fully excluded.
+A standalone responsive portfolio by Mohammed Farhan Ansari.
 
-## Live site
-Deploy `index.html`, `farhan-person.webp`, `farhan-instagram-qr.png`, and `jarvis-intro.mp3` at the web root. GitHub Pages can use `main` / `(root)` as source.
+## Deploy
 
-## Interactions
-- Cursor-driven FARHAN opening and section transitions
-- Inline JARVIS greeting, played on click (not autoplay)
-- Instagram QR outro
-- Gmail/Instagram links and responsive layout
+Place `index.html`, `farhan-person.webp`, `farhan-instagram-qr.png`, and `jarvis-intro.mp3` in the web root. On GitHub Pages, use the `main` branch and `/(root)` folder as the deployment source.
 
-The original certificate document and the viewer implementation are deliberately not distributed.
+## Experience
+
+- Cursor-built FARHAN opening and cinematic scrolling
+- Projects, skills and working project links
+- Authentic JARVIS voice greeting activated by clicking the project card
+- Instagram QR finale, Gmail contact and mobile layout
+
+No framework or build step required.
